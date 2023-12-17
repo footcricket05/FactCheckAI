@@ -4,7 +4,7 @@
 FactCheckAI is an automated fact-checking system leveraging deep learning to classify statements into 'true' or 'false' categories. This project aims to assist in the verification of information, particularly useful in the context of news articles, social media posts, and speeches.
 
 ## Project Structure
-- `model.py`: The main script contains functions for data cleaning, preprocessing, building and training the LSTM-based deep learning model.
+- `FactCheckAI.py`: The main script contains functions for data cleaning, preprocessing, building and training the LSTM-based deep learning model.
 - `requirements.txt`: Lists all the Python libraries required for the project.
 
 ## Installation
