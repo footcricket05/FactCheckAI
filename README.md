@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
-1. 📁 Place your dataset in the `data/` directory.
+1. 📁 Place your dataset in the `Dataset/` directory.
 2. 🧹 Run `FactCheckAI.ipynb` to perform data cleaning, preprocessing, and to train and evaluate the model.
 
 ## 🧠 Model Description
