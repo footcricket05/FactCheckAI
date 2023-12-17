@@ -10,6 +10,12 @@ FactCheckAI is an automated fact-checking system leveraging deep learning to cla
 - `utils/`: Additional utilities for text processing and data handling.
 - `data/`: Directory for storing datasets (not included in the repository due to size and privacy concerns).
 
+## Installation
+To install the required libraries, run:
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 1. Place your dataset in the `data/` directory.
 2. Run `preprocess.py` to clean and preprocess the data.
